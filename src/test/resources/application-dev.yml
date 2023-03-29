@@ -1,0 +1,6 @@
+spring:
+  profiles: dev
+
+config:
+  web:
+    baseUrl: https://www.tokopedia.com/
